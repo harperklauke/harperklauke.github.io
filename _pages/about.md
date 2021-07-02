@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie)
-
-## Features
+## Resources
+[UCSB PSTAT Department](https://pstat.ucsb.edu)
+[Data Science Club](https://datascienceucsb.org) at UCSB
