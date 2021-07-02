@@ -3,8 +3,9 @@ new post:
 # * is a wildcard
 # lines below will apply "test" label to all repo files
 # can add a certain directory to a .gitignore to ignore
-test:
-- /*
+
+#test:
+#- /*
 
 #front-end:
 #- frontend/*
