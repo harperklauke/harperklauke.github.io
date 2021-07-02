@@ -5,3 +5,9 @@ new post:
 # can add a certain directory to a .gitignore to ignore
 test:
 - /*
+
+#front-end:
+#- frontend/*
+
+#back-end:
+#- backend/*
